@@ -1,0 +1,8 @@
+clients.csv
+commandes_Q1.csv
+commandes_Q2.csv
+products.csv
+.venv
+.venv/
+.vs
+__pycache__/
