@@ -6,3 +6,4 @@ products.csv
 .venv/
 .vs
 __pycache__/
+*.csv
