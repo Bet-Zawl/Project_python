@@ -4,6 +4,7 @@ commandes_Q2.csv
 products.csv
 .venv
 .venv/
-.vs
+.vscode
+.vscode/
 __pycache__/
 *.csv
