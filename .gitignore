@@ -8,3 +8,4 @@ products.csv
 .vscode/
 __pycache__/
 *.csv
+*.parquet
